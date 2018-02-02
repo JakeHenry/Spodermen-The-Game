@@ -1,1 +1,2 @@
 battletoads.enable();
+battletoads.attack();
